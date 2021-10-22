@@ -27,3 +27,9 @@ public class calcolatrice {
         return result;
     }
 }
+class calcolatriceScientifica extends calcolatrice{
+
+	public double pow(double num1, double num2){
+		return Math.pow(num1,num2);
+	}
+}
