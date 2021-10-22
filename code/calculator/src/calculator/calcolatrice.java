@@ -22,7 +22,7 @@ public class calcolatrice {
         try {
             result = num1/num2;
         } catch (Exception e) {
-            Console.out.println("Error");
+            System.out.println("Error");
         }
         return result;
     }
