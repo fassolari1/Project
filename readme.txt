@@ -2,5 +2,6 @@
 Sviluppo di una calcolatrice usando git + java
 
 a modificare si riesce
+riuscite a modificare tutti?
 
 //prova
