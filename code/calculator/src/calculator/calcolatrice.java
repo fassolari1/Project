@@ -1,9 +1,7 @@
 package calculator;
 
 public class calcolatrice {
-	//ok adesso provo
-	int a = 1;
-	int b = 2;
+
 	
 	public double somma(double num1, double num2){
         return num1 + num2;
