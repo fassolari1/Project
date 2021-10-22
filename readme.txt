@@ -2,7 +2,7 @@
 Sviluppo di una calcolatrice usando git + java
 
 a modificare si riesce
-riuscite a modificare tutti? si si
+riuscite a modificare tutti? si si si
 
 
 //prova
